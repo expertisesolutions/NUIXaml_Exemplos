@@ -4,6 +4,13 @@
   xmlns:b="clr-namespace:Tizen.NUI.BaseComponents;assembly=Tizen.NUI"
   xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
 
-    <b:TextLabel x:Name="text"  Text="Hello, NUI XAML APP!" PositionUsesPivotPoint="True" ParentOrigin="Center" PivotPoint="Center" Size="700,300,0" PointSize="17" TextColor="Yellow"/>
+    <b:TextLabel x:Name="text"  Text="Teste Expertisesolutions !" PositionUsesPivotPoint="True" ParentOrigin="Center" PivotPoint="Center" Size="700,300,0" PointSize="60" TextColor="White"/>
 
 </b:View>
+
+    <!--
+           Position2D="47,52" 
+           Size2D="400,80"
+    
+    -->
+    

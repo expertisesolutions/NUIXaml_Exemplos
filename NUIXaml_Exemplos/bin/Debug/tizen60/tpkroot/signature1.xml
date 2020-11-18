@@ -12,7 +12,7 @@
     </Reference>
     <Reference URI="res%2Flayout%2FXamlPage.xaml">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512" />
-      <DigestValue>7rzboCfSF/GtkpLw5D18Us9X1sLBH807lwdy+ywBP5n4TFDHGdRqi5Mr+iidXJMFyoRCVrik1n/dES42OXxWxw==</DigestValue>
+      <DigestValue>QUSAhIEamKVIpMQndC9o02hm4+e3WrCni9M0y3qZmn/97dPU4o76/3k8fR2ddsGWKypilUXnJD3HAauh+mY2Iw==</DigestValue>
     </Reference>
     <Reference URI="NUIXaml_Exemplos.deps.json">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512" />
@@ -24,15 +24,15 @@
     </Reference>
     <Reference URI="bin%2FNUIXaml_Exemplos.pdb">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512" />
-      <DigestValue>I1X7NhXuUIzlOuU4t4BoixqL1bl1Q0fz8nCZZjBvRZ6ARjBBpfRtbgs/sT4qfT73JijN5CxOGQer22mkkHhEaA==</DigestValue>
+      <DigestValue>yTn2hwV/zmOeb38Vsp+hw765xG5mJtgxgMf6d1i/MlcarbwbHvdl1MV+JjGCKAkphD+bTyWwKLcDqIvBe8mlzw==</DigestValue>
     </Reference>
     <Reference URI="bin%2FNUIXaml_Exemplos.dll">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512" />
-      <DigestValue>wq3u/IpsbOcPdXFjsrOr1OQuGeY7JmomMs5wudiFM3AlDH8wZgtNhpEOOIubTU6S9+aR/ZPtD6R0EN4UN2iNog==</DigestValue>
+      <DigestValue>8djLyglKS0vubfNuccQTgG4e6jcU2hOlYp89D0Bt+QGEsHS574Gspy72Zcd0wBA7kBMnvFH+ePdxjwIpvsfyHA==</DigestValue>
     </Reference>
     <Reference URI="author-signature.xml">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512" />
-      <DigestValue>g9P/mKgXMxhYQ6wWtt4di0Z5KKPFfTzce1fi+roG5mgXEYGJ069eoE+xmitmVCn/g6aVi0rmMEKtY1nekfefUg==</DigestValue>
+      <DigestValue>gqa1ESAaad7ggqa4urrKXK2HzAD8W1Bd3ZIXPTTegbYrLSnRdqWNoKoqQM7q0n370T7/eKwXBDo4/7xSa8yrEw==</DigestValue>
     </Reference>
     <Reference URI="#prop">
       <Transforms>
@@ -43,9 +43,9 @@
     </Reference>
   </SignedInfo>
   <SignatureValue>
-UgWJNP1N+efOdRnjMZe0S7pCe7Hyli4iokaTzJYyQ8mv6dKCaFc0kM52dAmmZeiTLAn+stip/zy9
-sKAWxICWRWb68xuuH53haw2kwlHTjLprhfP8kl3rHV/YqQSNI5PO8ofsPYJfnhjAEUgN7JV9bPoc
-jBFvgEczC6ot/YtlldA=
+nOWa1tkoMDUgQaIhCw9/B63YvBDhBz124uObtEAE16VXHVc25kvXJDm9iZ8KabahprzOyxqgeDdz
+jKUTYweTiwqxLa5wUwwTYREGxnEWnyWsP05/werYSMK2CQ8py4pIJgdHemJOfk83SuzB4J1MED5i
+OLURN7jTP5NsnHA18XI=
 </SignatureValue>
   <KeyInfo>
     <X509Data>

@@ -14,8 +14,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="lib\"/>
-    <Folder Include="res\"/>
+    <Folder Include="lib\" />
+    <Folder Include="res\layout\720x1080\" />
+    <Folder Include="res\layout\480x800\" />
   </ItemGroup>
   
     <ItemGroup>

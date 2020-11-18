@@ -11,7 +11,7 @@ namespace NUIXaml_Exemplos
         {
             base.OnCreate();
             Window window = Window.Instance;
-            window.BackgroundColor = Color.Blue;
+            window.BackgroundColor = Color.Black;
             window.KeyEvent += OnKeyEvent;
 
             XamlPage page = new XamlPage();
