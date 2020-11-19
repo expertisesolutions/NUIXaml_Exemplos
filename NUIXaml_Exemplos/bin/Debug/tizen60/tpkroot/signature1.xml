@@ -6,13 +6,29 @@
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512" />
       <DigestValue>iX78He68x0fP87A9ekuLPbxVSMqUDWmEIkOqc3j5AgILOQ64yhLZhsrCKommLq7YufcYMznTFAYARPaoTdswog==</DigestValue>
     </Reference>
+    <Reference URI="shared%2Fres%2Fpicture_07.jpg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512" />
+      <DigestValue>cp8euGPDLUY4nppfs9EvCzizY8rusdhaC27F/bOvZCSRDlVcOSnp4cq/qCvtrvd+yYSBB3e2+XgH65YecmF7tA==</DigestValue>
+    </Reference>
     <Reference URI="shared%2Fres%2FNUIXaml_Exemplos.png">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512" />
       <DigestValue>cI5amtjSdPPxN2ZpqYaAXIUjxKMUbzwJwFs/Jd7nFo+/nB0gpKGysBrP4JLzlhEO0bXuNApr5FJzXAIfTUNX3g==</DigestValue>
     </Reference>
     <Reference URI="res%2Flayout%2FXamlPage.xaml">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512" />
-      <DigestValue>QUSAhIEamKVIpMQndC9o02hm4+e3WrCni9M0y3qZmn/97dPU4o76/3k8fR2ddsGWKypilUXnJD3HAauh+mY2Iw==</DigestValue>
+      <DigestValue>HmS0UOcRpFJoEL+BnWnE2Dg2nETda45iEAPwbIawI3GToCCfXmqAGVGMLF2DnGBwzG9UxNai3mdsxCe9DZBOKw==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Flayout%2FXamlMain.xaml">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512" />
+      <DigestValue>hzjcd3jhVeilMTQD5OhNdruRDl/u2HGEZ0gMyudicTatH03/4GN54f0a4ikJYoynCnCqLBuXAoaHqjzU2AwUEQ==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Flayout%2F720x1080%2FXamlPage.xaml">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512" />
+      <DigestValue>p+UlJxRCgwIT0h+vYj9eZueO7f0j7q98TE1efUX9/lggPYhXT+2C32nLSRPyaE9rpKkO/hQkC4McTUm6QXn2PA==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Flayout%2F480x800%2FXamlPage.xaml">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512" />
+      <DigestValue>p+UlJxRCgwIT0h+vYj9eZueO7f0j7q98TE1efUX9/lggPYhXT+2C32nLSRPyaE9rpKkO/hQkC4McTUm6QXn2PA==</DigestValue>
     </Reference>
     <Reference URI="NUIXaml_Exemplos.deps.json">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512" />
@@ -24,15 +40,15 @@
     </Reference>
     <Reference URI="bin%2FNUIXaml_Exemplos.pdb">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512" />
-      <DigestValue>yTn2hwV/zmOeb38Vsp+hw765xG5mJtgxgMf6d1i/MlcarbwbHvdl1MV+JjGCKAkphD+bTyWwKLcDqIvBe8mlzw==</DigestValue>
+      <DigestValue>W6/lrBqcTe7cOKJTaLvReu8yvZ6mR5ChP4JklGhgCPg05z9sHzPY6JsqQ7cOXGkDbeGNsVHchoDMg2JJig1Amw==</DigestValue>
     </Reference>
     <Reference URI="bin%2FNUIXaml_Exemplos.dll">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512" />
-      <DigestValue>8djLyglKS0vubfNuccQTgG4e6jcU2hOlYp89D0Bt+QGEsHS574Gspy72Zcd0wBA7kBMnvFH+ePdxjwIpvsfyHA==</DigestValue>
+      <DigestValue>Gtxk87HJ5cq18NYcA6FiZJe7Oi3EMas87/qhKfD9ptFSjNOVBgnqctRsuCGFvzihKikaIa3JqERwIu6w9fFXBQ==</DigestValue>
     </Reference>
     <Reference URI="author-signature.xml">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512" />
-      <DigestValue>gqa1ESAaad7ggqa4urrKXK2HzAD8W1Bd3ZIXPTTegbYrLSnRdqWNoKoqQM7q0n370T7/eKwXBDo4/7xSa8yrEw==</DigestValue>
+      <DigestValue>pltrNsKYLoSMbSCEDQ51oPpxsJviDVnD7r5ghF3zwpsvF4y72lWxAjG+GNiY4GokR7yr2PSvHeCKYegjM1/YOg==</DigestValue>
     </Reference>
     <Reference URI="#prop">
       <Transforms>
@@ -43,9 +59,9 @@
     </Reference>
   </SignedInfo>
   <SignatureValue>
-nOWa1tkoMDUgQaIhCw9/B63YvBDhBz124uObtEAE16VXHVc25kvXJDm9iZ8KabahprzOyxqgeDdz
-jKUTYweTiwqxLa5wUwwTYREGxnEWnyWsP05/werYSMK2CQ8py4pIJgdHemJOfk83SuzB4J1MED5i
-OLURN7jTP5NsnHA18XI=
+MxBzvqoGW/xilcmj3+21W/orxzwUyQK6Rl7Pi4W7RtEhZ2BloduEluHljQtr6sV6vsIdcVXAO/A/
+1xpn22BNytQq/G6OZQGMMjhrgIxB/BZ1ckwa1XeAmuXzhIrPXj8Y/CjasUqKsLxT0mMuggzlz6jL
+d1yP/oUDPxI+GxNFRnc=
 </SignatureValue>
   <KeyInfo>
     <X509Data>

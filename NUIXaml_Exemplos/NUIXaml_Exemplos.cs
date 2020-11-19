@@ -6,13 +6,13 @@ namespace NUIXaml_Exemplos
 {
     public class Program : NUIApplication
     {
-        Animation animation;
+        //Animation animation;
         protected override void OnCreate()
         {
             base.OnCreate();
             Window window = Window.Instance;
             window.BackgroundColor = Color.Black;
-            window.KeyEvent += OnKeyEvent;
+            //window.KeyEvent += OnKeyEvent;
 
             XamlPage page = new XamlPage();
             page.PositionUsesPivotPoint = true;
@@ -20,13 +20,7 @@ namespace NUIXaml_Exemplos
             page.PivotPoint = PivotPoint.Center;
             page.Size = new Size(720, 1280, 0);
             window.Add(page);
-
-            animation = new Animation(2000);
-            animation.AnimateTo(page.text, "Orientation", new Rotation(new Radian(new Degree(180.0f)), PositionAxis.X), 0, 500);
-            animation.AnimateTo(page.text, "Orientation", new Rotation(new Radian(new Degree(0.0f)), PositionAxis.X), 500, 1000);
-            animation.Looping = true;
-            animation.Play();
-        }
+     }
 
         public void OnKeyEvent(object sender, Window.KeyEventArgs e)
         {
@@ -43,3 +37,109 @@ namespace NUIXaml_Exemplos
         }
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+          * 
+
+namespace NUIXaml_Exemplos
+{
+ public class Program : NUIApplication
+ {
+    //Animation animation;
+     protected override void OnCreate()
+     {
+         base.OnCreate();
+         Window window = Window.Instance;
+         window.BackgroundColor = Color.Black;
+         window.KeyEvent += OnKeyEvent;
+
+         XamlPage page = new XamlPage();
+         page.PositionUsesPivotPoint = true;
+         page.ParentOrigin = ParentOrigin.Center;
+         page.PivotPoint = PivotPoint.Center;
+         page.Size = new Size(720, 1280, 0);
+         window.Add(page);
+
+
+         animation = new Animation(2000);
+         animation.AnimateTo(page.text, "Orientation", new Rotation(new Radian(new Degree(180.0f)), PositionAxis.X), 0, 500);
+         animation.AnimateTo(page.text, "Orientation", new Rotation(new Radian(new Degree(0.0f)), PositionAxis.X), 500, 1000);
+         animation.Looping = true;
+         animation.Play();
+         *
+
+     }
+
+     public void OnKeyEvent(object sender, Window.KeyEventArgs e)
+     {
+         if (e.Key.State == Key.StateType.Down && (e.Key.KeyPressedName == "XF86Back" || e.Key.KeyPressedName == "Escape"))
+         {
+             Exit();
+         }
+     }
+
+     static void Main(string[] args)
+     {
+         var app = new Program();
+         app.Run(args);
+     }
+ }
+}
+
+*/
+
+
+/*
+          * 
+
+namespace NUIXaml_Exemplos
+{
+ public class Program : NUIApplication
+ {
+    //Animation animation;
+     protected override void OnCreate()
+     {
+         base.OnCreate();
+         Window window = Window.Instance;
+         window.BackgroundColor = Color.Black;
+         window.KeyEvent += OnKeyEvent;
+
+         XamlPage page = new XamlPage();
+         page.PositionUsesPivotPoint = true;
+         page.ParentOrigin = ParentOrigin.Center;
+         page.PivotPoint = PivotPoint.Center;
+         page.Size = new Size(720, 1280, 0);
+         window.Add(page);
+
+
+     }
+
+     public void OnKeyEvent(object sender, Window.KeyEventArgs e)
+     {
+         if (e.Key.State == Key.StateType.Down && (e.Key.KeyPressedName == "XF86Back" || e.Key.KeyPressedName == "Escape"))
+         {
+             Exit();
+         }
+     }
+
+     static void Main(string[] args)
+     {
+         var app = new Program();
+         app.Run(args);
+     }
+ }
+}
+
+*/
