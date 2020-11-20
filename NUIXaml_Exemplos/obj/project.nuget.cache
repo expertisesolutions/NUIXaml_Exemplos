@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qvCow21Qoc6CfApwxymtjQUIE0BCnixOiUrwu/cKRwsARJ5mjFsn/lgXnRomTJ7rmtF+HiJTNro4Vxv7cYqztg==",
+  "dgSpecHash": "6JKYcLLI1+ynVZ0pHKh3AMyROJ+cVIC2E1ZxUkwj0Emi44nVZamJlnmXxER/6QkmUigCsJy83qGix9oFASXokQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ricardo.campos\\source\\repos\\NUIXaml_Exemplos\\NUIXaml_Exemplos\\NUIXaml_Exemplos.csproj",
+  "projectFilePath": "C:\\Users\\ricardo.campos\\source\\repos\\copia\\NUIXaml_Exemplos\\NUIXaml_Exemplos\\NUIXaml_Exemplos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ricardo.campos\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\ricardo.campos\\.nuget\\packages\\tizen.net\\8.0.0.15631\\tizen.net.8.0.0.15631.nupkg.sha512",

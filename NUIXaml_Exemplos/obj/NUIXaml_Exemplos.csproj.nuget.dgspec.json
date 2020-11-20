@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ricardo.campos\\source\\repos\\NUIXaml_Exemplos\\NUIXaml_Exemplos\\NUIXaml_Exemplos.csproj": {}
+    "C:\\Users\\ricardo.campos\\source\\repos\\copia\\NUIXaml_Exemplos\\NUIXaml_Exemplos\\NUIXaml_Exemplos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ricardo.campos\\source\\repos\\NUIXaml_Exemplos\\NUIXaml_Exemplos\\NUIXaml_Exemplos.csproj": {
+    "C:\\Users\\ricardo.campos\\source\\repos\\copia\\NUIXaml_Exemplos\\NUIXaml_Exemplos\\NUIXaml_Exemplos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ricardo.campos\\source\\repos\\NUIXaml_Exemplos\\NUIXaml_Exemplos\\NUIXaml_Exemplos.csproj",
+        "projectUniqueName": "C:\\Users\\ricardo.campos\\source\\repos\\copia\\NUIXaml_Exemplos\\NUIXaml_Exemplos\\NUIXaml_Exemplos.csproj",
         "projectName": "NUIXaml_Exemplos",
-        "projectPath": "C:\\Users\\ricardo.campos\\source\\repos\\NUIXaml_Exemplos\\NUIXaml_Exemplos\\NUIXaml_Exemplos.csproj",
+        "projectPath": "C:\\Users\\ricardo.campos\\source\\repos\\copia\\NUIXaml_Exemplos\\NUIXaml_Exemplos\\NUIXaml_Exemplos.csproj",
         "packagesPath": "C:\\Users\\ricardo.campos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ricardo.campos\\source\\repos\\NUIXaml_Exemplos\\NUIXaml_Exemplos\\obj\\",
+        "outputPath": "C:\\Users\\ricardo.campos\\source\\repos\\copia\\NUIXaml_Exemplos\\NUIXaml_Exemplos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
