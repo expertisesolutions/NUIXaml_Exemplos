@@ -8,26 +8,22 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Tizen.NUI.Xaml.XamlResourceIdAttribute("NUIXaml_Exemplos.res.layout.XamlPage.xaml", "res/layout/XamlPage.xaml", typeof(global::NUIXaml_Exemplos.XamlPage))]
+[assembly: global::Tizen.NUI.Xaml.XamlResourceIdAttribute("NUIXaml_Exemplos.res.layout._480x800.XamlPage.xaml", "res/layout/480x800/XamlPage.xaml", typeof(global::NUIXaml_Exemplos.XamlPage))]
 
 namespace NUIXaml_Exemplos {
     
     
-    [Tizen.NUI.Xaml.XamlFilePathAttribute("res\\layout\\XamlPage.xaml")]
+    [Tizen.NUI.Xaml.XamlFilePathAttribute("res\\layout\\480x800\\XamlPage.xaml")]
     [Tizen.NUI.Xaml.XamlCompilationAttribute(global::Tizen.NUI.Xaml.XamlCompilationOptions.Compile)]
     public partial class XamlPage : global::Tizen.NUI.BaseComponents.View {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Tizen.NUI.Xaml.Build.Tasks.XamlG", "1.0.10.0")]
-        public global::Tizen.NUI.BaseComponents.TextLabel textPrevious;
-        
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Tizen.NUI.Xaml.Build.Tasks.XamlG", "1.0.10.0")]
-        public global::Tizen.NUI.BaseComponents.TextLabel textNext;
+        public global::Tizen.NUI.BaseComponents.TextLabel text;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Tizen.NUI.Xaml.Build.Tasks.XamlG", "1.0.10.0")]
         private void InitializeComponent() {
             global::Tizen.NUI.Xaml.Extensions.LoadFromXaml(this, typeof(XamlPage));
-            textPrevious = global::Tizen.NUI.Binding.NameScopeExtensions.FindByName<global::Tizen.NUI.BaseComponents.TextLabel>(this, "textPrevious");
-            textNext = global::Tizen.NUI.Binding.NameScopeExtensions.FindByName<global::Tizen.NUI.BaseComponents.TextLabel>(this, "textNext");
+            text = global::Tizen.NUI.Binding.NameScopeExtensions.FindByName<global::Tizen.NUI.BaseComponents.TextLabel>(this, "text");
         }
     }
 }

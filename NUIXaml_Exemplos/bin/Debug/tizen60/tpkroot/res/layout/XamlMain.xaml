@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+    
+<b:View x:Class="NUIXaml_Exemplos.XamlPage"
+  xmlns="http://tizen.org/Tizen.NUI/2018/XAML"
+  xmlns:b="clr-namespace:Tizen.NUI.BaseComponents;assembly=Tizen.NUI"
+  xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+
+    <b:ImageView Name="text" Size2D="950,594" Position2D="50,311" BackgroundColor="Cyan" >
+        <b:ImageView Name="photo1" ResourceUrl="*Resource*/NUIXaml_Exemplos.png" Position2D="47,52" Size2D="440,440" />
+    </b:ImageView>
+    <b:View Name="outro" Size2D="440,194" Position2D="250,411">
+        <PushButton Name="outro" Size2D="440,440" BackgroundColor="White"/>
+    </b:View>
+    <ImageView Name="photo3" ResourceUrl="*Resource*/picture_07.jpg" Position2D="50,200" Size2D="440,440"/>
+</b:View>
+    
+
+    <!--
+           Position2D="47,52" 
+           Size2D="400,80"
+    
+    <b:TextLabel x:Name="textcc"  Text="Teste Expertisesolutions !" PositionUsesPivotPoint="True" ParentOrigin="Center" PivotPoint="Center" Position2D="47,52" Size2D="440,440" PointSize="60" TextColor="White"/>
+ <
+    
+    
+    <TextLabel x:Name="textcc"  Text="Teste Expertisesolutiobvcbcbcns !" 
+               Position2D="20,100" Size2D="800,800" PointSize="60" TextColor="White"/>
+    <TextLabel x:Name="textcvc"  Text="Teste Expertisesolutions !" 
+               Position2D="50,200" Size2D="440,440" PointSize="60" TextColor="White"/>
+    
+    -->
+    
+    
+    

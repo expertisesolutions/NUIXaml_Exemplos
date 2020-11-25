@@ -1,0 +1,9 @@
+C:\Users\ricardo.campos\source\repos\NUIXaml_Exemplos\NUIXaml_Exemplos\bin\Release\tizen60\NUIXaml_Exemplos.deps.json
+C:\Users\ricardo.campos\source\repos\NUIXaml_Exemplos\NUIXaml_Exemplos\bin\Release\tizen60\NUIXaml_Exemplos.dll
+C:\Users\ricardo.campos\source\repos\NUIXaml_Exemplos\NUIXaml_Exemplos\obj\Release\tizen60\res\layout\XamlPage.xaml.g.cs
+C:\Users\ricardo.campos\source\repos\NUIXaml_Exemplos\NUIXaml_Exemplos\obj\Release\tizen60\NUIXaml_Exemplos.AssemblyInfoInputs.cache
+C:\Users\ricardo.campos\source\repos\NUIXaml_Exemplos\NUIXaml_Exemplos\obj\Release\tizen60\NUIXaml_Exemplos.AssemblyInfo.cs
+C:\Users\ricardo.campos\source\repos\NUIXaml_Exemplos\NUIXaml_Exemplos\obj\Release\tizen60\NUIXaml_Exemplos.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.campos\source\repos\NUIXaml_Exemplos\NUIXaml_Exemplos\obj\Release\tizen60\XamlC.stamp
+C:\Users\ricardo.campos\source\repos\NUIXaml_Exemplos\NUIXaml_Exemplos\obj\Release\tizen60\NUIXaml_Exemplos.dll
+C:\Users\ricardo.campos\source\repos\NUIXaml_Exemplos\NUIXaml_Exemplos\obj\Release\tizen60\NUIXaml_Exemplos.csprojAssemblyReference.cache

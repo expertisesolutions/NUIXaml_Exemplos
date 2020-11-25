@@ -1,0 +1,14 @@
+C:\Users\ricardo.campos\source\repos\NUIXaml_Exemplos\NUIXaml_Exemplos\bin\Debug\tizen60\tpkroot\bin\NUIXaml_Exemplos.dll
+C:\Users\ricardo.campos\source\repos\NUIXaml_Exemplos\NUIXaml_Exemplos\bin\Debug\tizen60\tpkroot\bin\NUIXaml_Exemplos.pdb
+C:\Users\ricardo.campos\source\repos\NUIXaml_Exemplos\NUIXaml_Exemplos\bin\Debug\tizen60\tpkroot\bin\Tizen.NUI.XamlBuild.dll
+C:\Users\ricardo.campos\source\repos\NUIXaml_Exemplos\NUIXaml_Exemplos\bin\Debug\tizen60\tpkroot\NUIXaml_Exemplos.deps.json
+C:\Users\ricardo.campos\source\repos\NUIXaml_Exemplos\NUIXaml_Exemplos\bin\Debug\tizen60\tpkroot\res\EmpresaLoading.gif
+C:\Users\ricardo.campos\source\repos\NUIXaml_Exemplos\NUIXaml_Exemplos\bin\Debug\tizen60\tpkroot\res\layout\480x800\XamlPage.xaml
+C:\Users\ricardo.campos\source\repos\NUIXaml_Exemplos\NUIXaml_Exemplos\bin\Debug\tizen60\tpkroot\res\layout\720x1080\XamlPage.xaml
+C:\Users\ricardo.campos\source\repos\NUIXaml_Exemplos\NUIXaml_Exemplos\bin\Debug\tizen60\tpkroot\res\layout\XamlMain.xaml
+C:\Users\ricardo.campos\source\repos\NUIXaml_Exemplos\NUIXaml_Exemplos\bin\Debug\tizen60\tpkroot\res\layout\XamlPage.xaml
+C:\Users\ricardo.campos\source\repos\NUIXaml_Exemplos\NUIXaml_Exemplos\bin\Debug\tizen60\tpkroot\res\NUIXaml_Exemplos.png
+C:\Users\ricardo.campos\source\repos\NUIXaml_Exemplos\NUIXaml_Exemplos\bin\Debug\tizen60\tpkroot\shared\res\NUIXaml_Exemplos.png
+C:\Users\ricardo.campos\source\repos\NUIXaml_Exemplos\NUIXaml_Exemplos\bin\Debug\tizen60\tpkroot\shared\res\picture_07.jpg
+C:\Users\ricardo.campos\source\repos\NUIXaml_Exemplos\NUIXaml_Exemplos\bin\Debug\tizen60\tpkroot\tizen-manifest.xml
+C:\Users\ricardo.campos\source\repos\NUIXaml_Exemplos\NUIXaml_Exemplos\bin\Debug\tizen60\org.tizen.example.NUIXaml_Exemplos-1.0.0.tpk

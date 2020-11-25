@@ -14,8 +14,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="lib\"/>
-    <Folder Include="res\"/>
+    <Folder Include="lib\" />
+    <Folder Include="res\layout\720x1080\" />
+    <Folder Include="res\layout\480x800\" />
   </ItemGroup>
   
     <ItemGroup>
@@ -26,6 +27,12 @@
 
   <ItemGroup>
     <PackageReference Include="Tizen.NUI.XamlBuild" Version="1.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="res\layout\720x1080\XamlPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
   </ItemGroup>
 
   <PropertyGroup>

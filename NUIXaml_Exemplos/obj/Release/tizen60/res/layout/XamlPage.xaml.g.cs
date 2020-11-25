@@ -18,16 +18,8 @@ namespace NUIXaml_Exemplos {
     public partial class XamlPage : global::Tizen.NUI.BaseComponents.View {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Tizen.NUI.Xaml.Build.Tasks.XamlG", "1.0.10.0")]
-        public global::Tizen.NUI.BaseComponents.TextLabel textPrevious;
-        
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Tizen.NUI.Xaml.Build.Tasks.XamlG", "1.0.10.0")]
-        public global::Tizen.NUI.BaseComponents.TextLabel textNext;
-        
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Tizen.NUI.Xaml.Build.Tasks.XamlG", "1.0.10.0")]
         private void InitializeComponent() {
             global::Tizen.NUI.Xaml.Extensions.LoadFromXaml(this, typeof(XamlPage));
-            textPrevious = global::Tizen.NUI.Binding.NameScopeExtensions.FindByName<global::Tizen.NUI.BaseComponents.TextLabel>(this, "textPrevious");
-            textNext = global::Tizen.NUI.Binding.NameScopeExtensions.FindByName<global::Tizen.NUI.BaseComponents.TextLabel>(this, "textNext");
         }
     }
 }
