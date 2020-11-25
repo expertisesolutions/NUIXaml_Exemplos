@@ -16,7 +16,7 @@
     </Reference>
     <Reference URI="res%2Flayout%2FXamlPage.xaml">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512" />
-      <DigestValue>r3GCnF580KWGAvDxeWfe5+9aeGJH+TUE/YatjM6n5X47KCKPmiuH0RYzRT96NJ3BF2gNRK3acII20WUIlZ0T8A==</DigestValue>
+      <DigestValue>dFYGvD1cVlY9MWP7GJrOH6T0fOxxxAuQT/CuZln0bIfHBWBdF4ZSotH2Auklz8ALIp57x58tHDKhnTypfR/22g==</DigestValue>
     </Reference>
     <Reference URI="res%2Flayout%2FXamlMain.xaml">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512" />
@@ -40,7 +40,7 @@
     </Reference>
     <Reference URI="bin%2FNUIXaml_Exemplos.dll">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512" />
-      <DigestValue>uXGdeDYvgrXmHveFyVBmITh6ekDIEVpaJhf8Ro6DUAwABrwGqHxzeliQiuhPUWamnnvG0n+1fD5T910QabVcrw==</DigestValue>
+      <DigestValue>WLxnCVdauCkBDSbVj0N1JLUUJCZOIciF/pt+cnTBNZeMkvCkch+BfNgEFTbk+2+h4hILHAPoOd21hdu236FBkg==</DigestValue>
     </Reference>
     <Reference URI="#prop">
       <Transforms>
@@ -51,9 +51,9 @@
     </Reference>
   </SignedInfo>
   <SignatureValue>
-JC2sfV6i9eSx5vLKpcjG0QFkcT+Im9K5UvG1cStrLEBDzptCQRBVeS6usCHKrvhnCNua2+muasS6
-i/hZj8kDSOMfVMxEhRYk7g5ifmK+Cxuhth/zXwugH0v2jwqKtzfJjb7bgAHMlGaV4ZAK4cWVQU7b
-g2COOMSg+SVYk8Tw3oU=
+I3I7I3+Ze1hA2GD/vsxOh2UZgU78Cd7VrP36s/4YEC/KMGV52fyIpJ3KqNOQfhxZjn4FrWrFZqL1
+/hwXCVfCUA2/quAZAFM4vosRCqtkD5JPY8hZRF3HyH+df8sfEw51SVgkwpE1p5Fw1SRxUnaRQyp0
+86XSSHTVYVg+6NrALXg=
 </SignatureValue>
   <KeyInfo>
     <X509Data>

@@ -18,7 +18,7 @@ namespace NUIXaml_Exemplos
             page.PositionUsesPivotPoint = true;
             page.ParentOrigin = ParentOrigin.Center;
             page.PivotPoint = PivotPoint.Center;
-            page.Size = new Size(720, 1280, 0);
+            page.Size = new Size(1920, 1080, 0);
             window.Add(page);
      }
 

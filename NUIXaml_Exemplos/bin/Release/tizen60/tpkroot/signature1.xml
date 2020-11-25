@@ -16,7 +16,7 @@
     </Reference>
     <Reference URI="res%2Flayout%2FXamlPage.xaml">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512" />
-      <DigestValue>r3GCnF580KWGAvDxeWfe5+9aeGJH+TUE/YatjM6n5X47KCKPmiuH0RYzRT96NJ3BF2gNRK3acII20WUIlZ0T8A==</DigestValue>
+      <DigestValue>dFYGvD1cVlY9MWP7GJrOH6T0fOxxxAuQT/CuZln0bIfHBWBdF4ZSotH2Auklz8ALIp57x58tHDKhnTypfR/22g==</DigestValue>
     </Reference>
     <Reference URI="res%2Flayout%2FXamlMain.xaml">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512" />
@@ -40,11 +40,11 @@
     </Reference>
     <Reference URI="bin%2FNUIXaml_Exemplos.dll">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512" />
-      <DigestValue>uXGdeDYvgrXmHveFyVBmITh6ekDIEVpaJhf8Ro6DUAwABrwGqHxzeliQiuhPUWamnnvG0n+1fD5T910QabVcrw==</DigestValue>
+      <DigestValue>WLxnCVdauCkBDSbVj0N1JLUUJCZOIciF/pt+cnTBNZeMkvCkch+BfNgEFTbk+2+h4hILHAPoOd21hdu236FBkg==</DigestValue>
     </Reference>
     <Reference URI="author-signature.xml">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512" />
-      <DigestValue>AxWKKXdZHwkKjaYlngFwDIwD1wx4hU1n6943xwY6MAMI87XjsssI/sPh1do4hW7QYJ0SmiW81B2CM7ObZlZWWQ==</DigestValue>
+      <DigestValue>k/kFehguO5Mt9ufBTJkIgNnrVseqSpMCRj33cVfCNtUTDbHFzyQTG10VmofhCUdAGy4mz09WtOcN1tApD2QC5Q==</DigestValue>
     </Reference>
     <Reference URI="#prop">
       <Transforms>
@@ -55,9 +55,9 @@
     </Reference>
   </SignedInfo>
   <SignatureValue>
-G4/y58WBgtUiFd6TIK/XEBmw4VlYU09P5+2Op0bzcAhkFuRZXsx2ZBhn4wiBKTAOESIW5izW+Svh
-Cf1kQAQOu8gS6dCjCyeu7LsQzOD9YeDea9eNOG6jc0nDVk0ImNEsOJlc0FquNBnVSv2e88IYYCtz
-gNl90sInWvXAYemcmK8=
+Ms3R9aQOsrVBAeWbsbmci0eZ12/5i7ocz3u5vNo1NpJbmwD1Ofw5GoFyfJo3uxYXYVz4E2M9WQoK
+NgvS9fEeeVnj9rv50Uz0ddEV5CU2uXbnzu5l4/VeA1VpMRZ4qztPXRLkHPdmG2V5HgUAEIBsuY1l
+HdiC7Xt3ynjs2McQhL4=
 </SignatureValue>
   <KeyInfo>
     <X509Data>

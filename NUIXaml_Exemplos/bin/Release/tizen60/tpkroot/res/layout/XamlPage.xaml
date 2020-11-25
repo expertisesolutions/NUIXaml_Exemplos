@@ -5,6 +5,12 @@
   xmlns:b="clr-namespace:Tizen.NUI.BaseComponents;assembly=Tizen.NUI"
   xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
 
+
+    <b:ImageView Name="photo2" 
+                         ResourceUrl="*Resource*/NUIXaml_Exemplos.png" 
+                         Position2D="47,52" Size2D="340,340" 
+            />
+
     <b:ImageView Name="text" Size2D="600,440" Position2D="500,200" BackgroundColor="Cyan" >
         <b:ImageView Name="photo1" ResourceUrl="*Resource*/NUIXaml_Exemplos.png" 
                      Position2D="47,1" Size2D="340,340" />

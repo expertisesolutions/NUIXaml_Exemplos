@@ -5,6 +5,65 @@
   xmlns:b="clr-namespace:Tizen.NUI.BaseComponents;assembly=Tizen.NUI"
   xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
 
+    <View Name="faixa" Size2D="1920,440" Position2D="0,320" BackgroundColor="#f4f8fb">
+
+        <PushButton Name="botao01" Size2D="360,360" 
+                    PositionUsesPivotPoint="True" 
+                    ParentOrigin="Center" 
+                    BackgroundColor="White" 
+         >
+            <b:ImageView Name="logoGif" 
+                         ResourceUrl="*Resource*/EmpresaLoading.gif" 
+                         PositionUsesPivotPoint="True" 
+                         ParentOrigin="Center" 
+                         Size2D="365,365" 
+            />
+        </PushButton>
+
+        
+    </View>
+    <View Name="faixaButton" Size2D="1920,90" Position2D="0,770" BackgroundColor="#f4f8fb">
+        <PushButton Name="botao01" Size2D="200,70" 
+                         Position2D="680,9"
+                         BackgroundColor="Black" 
+         >
+            <b:TextLabel x:Name="textPrevious"  Text="&lt;== PREVIOUS" 
+                         Position2D="0,0"
+                         Size2D="200,70" 
+                         PointSize="27" 
+                         BackgroundColor="Black"
+                         TextColor="White"
+                         HorizontalAlignment="Center"
+                         VerticalAlignment="Center"
+                         FontStyle="Bold"
+                         
+                          />
+        </PushButton>
+        <PushButton Name="botao01" Size2D="200,70" 
+                         Position2D="1040,9"
+                         BackgroundColor="Black" 
+         >
+            <b:TextLabel x:Name="textNext"  Text="NEXT     ==&gt;" 
+                         Position2D="0,0"
+                         Size2D="200,70" 
+                         PointSize="27" 
+                         BackgroundColor="Black"
+                         TextColor="White"
+                         HorizontalAlignment="Center"
+                         VerticalAlignment="Center"
+                         FontStyle="Bold"
+                         
+                          />
+        </PushButton>
+    </View>
+    
+    <!--
+
+    <b:ImageView Name="photo2" 
+                         ResourceUrl="*Resource*/NUIXaml_Exemplos.png" 
+                         Position2D="47,52" Size2D="340,340" 
+            />
+
     <b:ImageView Name="text" Size2D="600,440" Position2D="500,200" BackgroundColor="Cyan" >
         <b:ImageView Name="photo1" ResourceUrl="*Resource*/NUIXaml_Exemplos.png" 
                      Position2D="47,1" Size2D="340,340" />
@@ -13,7 +72,7 @@
         <PushButton Name="botao01" Size2D="440,440" BackgroundColor="White" 
          >
             <b:ImageView Name="photo2" 
-                         ResourceUrl="*Resource*/NUIXaml_Exemplos.png" 
+                         ResourceUrl="*Resource*/EmpresaLoading.gif" 
                          Position2D="47,52" Size2D="340,340" 
             />
         </PushButton>
@@ -48,6 +107,7 @@
             <TextEditor  Size2D="95,45" BackgroundColor="White" ColumnSpan="3"  ></TextEditor>
         </FlexContainer>
     </View>
+    -->
 </b:View>
     
 
